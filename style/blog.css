@@ -31,4 +31,17 @@ font-size: 20px;
 
 
 background-color: coral;
+
+margin: 100px;
+padding: 10px;
+border: 10px solid tomato;
+border-radius: 5px;
+
+}
+
+.video{
+color: seagreen;
+text-align: center;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
 }
